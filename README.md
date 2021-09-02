@@ -9,5 +9,6 @@ Leads Tracker - this is a simple Chrome Extension which can interact with chrome
 <img src="https://github.com/kar-thee/LeadsTracker-Chrome-Extension/blob/master/screenshots/Demo.png" alt="demo4extension" width="550px" title="accessing current tab url using Chrome API">
 <h3>Accessing current tab url using Chrome API</h3>
 <br/>
+<hr>
 
 Happy Coding!
